@@ -1,0 +1,7 @@
+python2.7
+pytorch
+flask
+natapp
+
+src文件夹里面interface_with_flask是最主要的文件，myresnet和wexininterface两个文件是参考文件
+这是训练完整模型的地址https://github.com/qazwsx74269/scene-baseline
